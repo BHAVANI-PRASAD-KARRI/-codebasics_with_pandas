@@ -50,6 +50,6 @@ Lesson	Topic	Status
 
 I'm Bhavani Prasad Karri, a final-year B.Tech CSE student building practical data analysis and ML skills.
 
-💼 LinkedIn
-💻 GitHub
+💼 LinkedIn bhavaniprasadkarri123@gmail.com
+💻 GitHub bhavani-prasad-karri
 📧 bhavaniprasadkarri123@gmail.com
