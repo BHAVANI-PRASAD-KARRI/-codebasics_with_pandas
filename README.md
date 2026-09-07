@@ -1,7 +1,7 @@
-# -codebasics_with_pandas
-Pandas Learning Journey 🐼
+# codebasicsth_panpandasndas Learning Journey 🐼
 
-This repository contains my notes, code, and hands-on practice as I learn Pandas by following the codebasics YouTube channel (1.57M subscribers).
+This repository contains my notes, code, and hands-on practice as I learn Pandas by folfollow
+inge codebasics YouTube channel (1.57M subscribers).
 
 The goal is to build a strong, practical foundation in Pandas for data analysis, as part of my broader journey toward becoming job-ready in data analytics and machine learning.
 
