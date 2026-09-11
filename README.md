@@ -47,8 +47,6 @@ Lesson	Topic	Status
 (Update this table as you complete each lesson)
 
 🙋 About Me
-which nothing about be so have 
-
 I'm Bhavani Prasad Karri, a final-year B.Tech CSE student building practical data analysis and ML skills.
 
 💼 LinkedIn bhavaniprasadkarri123@gmail.com
