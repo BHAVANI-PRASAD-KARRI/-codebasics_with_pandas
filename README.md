@@ -44,7 +44,8 @@ Lesson	Topic	Status
 2	Series & DataFrame basics	🔲 Not started
 3	Reading/writing files	🔲 Not started
 
-(Update this table as you complete each lesson)
+(Update this table as you complete each less
+
 
 🙋 About Me
 I'm Bhavani Prasad Karri, a final-year B.Tech CSE student building practical data analysis and ML skills.
