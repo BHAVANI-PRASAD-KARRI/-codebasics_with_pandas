@@ -44,7 +44,7 @@ Lesson	Topic	Status
 2	Series & DataFrame basics	🔲 Not started
 3	Reading/writing files	🔲 Not started
 
-(Update this table as you complete each less
+(Update this table as you complete each less)
 
 
 🙋 About Me
